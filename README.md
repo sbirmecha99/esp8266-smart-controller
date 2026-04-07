@@ -59,7 +59,7 @@ WiFi-enabled embedded system implementing a Finite State Machine (FSM) for real-
 
 ## 🎥 Demo
 
-(Add your video link here)
+https://drive.google.com/file/d/16QziZQ29N9CDDHXkpdHTcYWKCPKWFhA3/view?usp=sharing
 
 ---
 
